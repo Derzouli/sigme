@@ -1,5 +1,6 @@
 # sigme
 Android App to send message with Nod Ring to Pebble
+https://www.youtube.com/watch?v=KKWFgO6mMCI
 
 You will need the nod app:
 -https://play.google.com/apps/testing/com.nod_labs.mainapp
